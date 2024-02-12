@@ -1,0 +1,71 @@
+/*Created by Emmanuel Ilesanmi*/
+/*Student Number: 8968394*/
+
+body{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    font: 15px/1.5 arial, sans-serif;
+    padding: 10px;
+}
+
+.T1{
+    border: 4px solid fuchsia;
+    border-radius: 12px;
+    padding: 0.5px;
+    margin: 1px;
+}
+
+
+h1 h2 {
+    color: darkblue;
+    font-variant: small-caps;
+}
+
+footer{
+    font-size: medium;
+    color: rgb(255, 47, 224);
+}
+
+aside{
+    float: right;
+    width: 250px;
+}
+main{
+    float: left;
+    width: 450px;
+}
+
+.T2{
+    border: 3px solid rgb(0, 0, 0);
+}
+
+footer{
+    clear: both;
+}
+
+figcaption{
+font-weight: bold;
+font-variant: small-caps;
+}
+
+q{
+    font-style: italic;
+    font-family: cursive;
+    font-size: large;
+}
+
+ul li {
+    list-style: none;
+    padding: 0px;
+    line-height: 1.5;
+}
+
+ul > li > a {
+    color: darkorange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: crimson;
+}
